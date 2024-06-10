@@ -7,14 +7,14 @@ Generate reports and perform ad-hoc data analysis using SQL.
 Developing dashboards on Power BI.
 Data analysis and reporting using Google Sheets and Excel.
 
-📚 Projects
+📚 Projects:\n
 Welcome to my portfolio, where I showcase my projects.
 
-🛠️ Tools
+🛠️ Tools\n
 Language: SQL, Python
 Database:   MySQL,PostgreSQL
 Visualization: Power BI , MS Excel
 
-👋🏻 Connect with Me
+👋🏻 Connect with Me\n
 Linkedin
 Hire me on Upwork
