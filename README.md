@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-* I am currently working on Data Analytics projects .
+Hello, I'm Mahesh.Aspiring Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
-Here are some ideas to get you started:
+Querying data using SQL.
+Generate reports and perform ad-hoc data analysis using SQL.
+Developing dashboards on Power BI.
+Data analysis and reporting using Google Sheets and Excel.
 
-- 🔭 I’m currently working on  Data Analytics projects 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
+
+🛠️ Tools
+Language: SQL, Python
+Database:   MySQL,PostgreSQL
+Visualization: Power BI , MS Excel
+
+👋🏻 Connect with Me
+Linkedin
+Hire me on Upwork
