@@ -11,9 +11,9 @@ Data analysis and reporting using Google Sheets and Excel.
 Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools:
-Language: SQL, Python
-Database:   MySQL,PostgreSQL
-Visualization: Power BI , MS Excel
+###### Language: SQL, Python
+###### Database:   MySQL,PostgreSQL
+###### Visualization: Power BI , MS Excel
 
 ### 👋🏻 Connect with Me:
 Linkedin
