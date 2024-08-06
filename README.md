@@ -7,7 +7,7 @@ Generate reports and perform ad-hoc data analysis using SQL.
 Developing dashboards on Power BI.
 Data analysis and reporting using Google Sheets and Excel.
 
-📚 Projects:
+### 📚 Projects:
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools:
